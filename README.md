@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://kinoshita.eti.br/assets/pages/art/images/southern-royal-albatross.png)
+
 - 🔭 I am currently working on [Cylc](https://cylc.github.io) at [NIWA](https://niwa.co.nz/), a workflow manager written in Python that runs cyclic workflows.
 - 🇳🇿 I am based in Auckland, New Zealand, but am originally from São Paulo, Brazil 🇧🇷.
 - 👯 Feel free to get in contact to discuss collaboration in Open Source, I am interested in several topics, from image processing, fuzzy logic, and natural language processing, to devops, continuous integration, and testing.
