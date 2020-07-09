@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Eaí!  おっす! ¡Holla!
 
 ![](https://kinoshita.eti.br/assets/pages/art/images/southern-royal-albatross.png)
 
