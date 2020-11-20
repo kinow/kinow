@@ -1,6 +1,6 @@
 ### Hi there 👋 Eaí!  おっす! ¡Holla!
 
-![](https://kinoshita.eti.br/assets/pages/art/images/southern-royal-albatross.png)
+![](https://raw.githubusercontent.com/kinow/kinow/master/southern-royal-albatross-transparent.png)
 
 - 🔭 I am currently working on [Cylc](https://cylc.github.io) at [NIWA](https://niwa.co.nz/), a workflow manager written in Python that runs cyclic workflows.
 - 🇳🇿 I am based in Auckland, New Zealand, but am originally from São Paulo, Brazil 🇧🇷.
