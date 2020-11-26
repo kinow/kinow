@@ -1,4 +1,4 @@
-### Hi there 👋 Eaí!  おっす! ¡Hola!
+### 👋　Hi! Oi!　こんにちは!　¡Hola!
 
 ![](https://raw.githubusercontent.com/kinow/kinow/master/southern-royal-albatross-transparent.png)
 
