@@ -2,6 +2,10 @@
 
 ![](https://raw.githubusercontent.com/kinow/kinow/master/southern-royal-albatross-transparent.png)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X1618T2)
+
+<hr />
+
 - 🔭 I am currently working on [Cylc](https://cylc.github.io) at [NIWA](https://niwa.co.nz/), a workflow manager written in Python that runs cyclic workflows.
 - 🇳🇿 I am based in Auckland, New Zealand, but am originally from São Paulo, Brazil 🇧🇷.
 - 👯 Feel free to get in contact to discuss collaboration in Open Source, I am interested in several topics, from image processing, fuzzy logic, and natural language processing, to devops, continuous integration, and testing.
