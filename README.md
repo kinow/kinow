@@ -1,5 +1,3 @@
-### 👋　Hi! Oi!　こんにちは!　¡Hola!
-
 ![](https://raw.githubusercontent.com/kinow/kinow/master/southern-royal-albatross-transparent.png)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X1618T2)
