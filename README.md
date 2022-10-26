@@ -2,7 +2,7 @@
 
 <hr />
 
-<img src="https://raw.githubusercontent.com/kinow/kinow/master/255.png" alt="Sketches of hands and feed" style="max-width: 50%;float: right" />
+<img src="https://raw.githubusercontent.com/kinow/kinow/master/255.png" alt="Sketches of hands and feed" width="50%" align="right" />
 
 - 🇪🇸 I am based in Barcelona, Spain. Previously I was living in 🇳🇿 Auckland, New Zealand. I am originally from 🇧🇷 Casa Verde, São Paulo, Brazil.
 - 👯 Feel free to get in contact to discuss collaboration in Open Source, I am interested in several topics, from image processing, fuzzy logic, and natural language processing, to devops, continuous integration, and testing.
