@@ -1,10 +1,25 @@
-![](https://raw.githubusercontent.com/kinow/kinow/master/255.png)
+<style type="text/css">
+#an-image {
+  filter:  unset;
+}
+@media (prefers-color-scheme: dark) {
+  #an-image {
+    filter:  invert(100%);
+  }
+}
+</style>
+
+<img
+  src="https://raw.githubusercontent.com/kinow/kinow/master/255.png"
+  alt="Study of hands and feet, drawn with graphite stick."
+  id="an-image"
+  />
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X1618T2)
 
 <hr />
 
-- 🇪🇸 I am based in Barcelona, Spain,. Previously based in 🇳🇿 Auckland, New Zealand, and originally from 🇧🇷 São Paulo, Brazil.
+- 🇪🇸 I am based in Barcelona, Spain. Previously I was living in 🇳🇿 Auckland, New Zealand. I am originally from 🇧🇷 Casa Verde, São Paulo, Brazil.
 - 👯 Feel free to get in contact to discuss collaboration in Open Source, I am interested in several topics, from image processing, fuzzy logic, and natural language processing, to devops, continuous integration, and testing.
 - 🌱 I am an Apache Software Foundation member, and also involved with other Open Source projects such as TestLink, Jenkins, BioUno, TAP, Smashing, TupiLabs, CWL, and others.
 - ⚡ I am also interested in topics that are not necessarily related to programming, such as illustrations, 3D, writing, science fiction, judo, slackline, and history.
