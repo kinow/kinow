@@ -1,13 +1,13 @@
-![](https://raw.githubusercontent.com/kinow/kinow/master/southern-royal-albatross-transparent.png)
+![](https://raw.githubusercontent.com/kinow/kinow/master/255.png)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X1618T2)
 
 <hr />
 
-- 🇳🇿 I am based in Auckland, New Zealand, but am originally from São Paulo, Brazil 🇧🇷.
+- 🇪🇸 I am based in Barcelona, Spain,. Previously based in 🇳🇿 Auckland, New Zealand, and originally from 🇧🇷 São Paulo, Brazil.
 - 👯 Feel free to get in contact to discuss collaboration in Open Source, I am interested in several topics, from image processing, fuzzy logic, and natural language processing, to devops, continuous integration, and testing.
-- 🌱 Apache Software Foundation member, and also involved with other Open Source projects such as TestLink, Jenkins, BioUno, TAP, Smashing, TupiLabs, and others.
-- ⚡ Also interested in topics that are not necessarily related to programming, such as writing, science fiction, judo, slackline, and history.
+- 🌱 I am an Apache Software Foundation member, and also involved with other Open Source projects such as TestLink, Jenkins, BioUno, TAP, Smashing, TupiLabs, CWL, and others.
+- ⚡ I am also interested in topics that are not necessarily related to programming, such as illustrations, 3D, writing, science fiction, judo, slackline, and history.
 - 📖 My personal site is [https://kinoshita.eti.br/](https://kinoshita.eti.br/). Art posted to [@kinow at DeviantArt](https://www.deviantart.com/kinow) and [@brunokinoshita at Instagram](https://www.instagram.com/brunokinoshita/).
 - 📫 How to reach me: [🐦](https://twitter.com/kinow/) or by e-mail. I may take a while to respond, and rarely available via mobile phone.
 
