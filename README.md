@@ -9,7 +9,7 @@
 - 🌱 I am an Apache Software Foundation member, and also involved with other Open Source projects such as TestLink, Jenkins, BioUno, TAP, Smashing, TupiLabs, CWL, and others.
 - ⚡ I am also interested in topics that are not necessarily related to programming, such as illustrations, 3D, writing, science fiction, judo, slackline, and history.
 - 📖 My personal site is [https://kinoshita.eti.br/](https://kinoshita.eti.br/). Art posted to [@kinow at DeviantArt](https://www.deviantart.com/kinow) and [@brunokinoshita at Instagram](https://www.instagram.com/brunokinoshita/).
-- 📫 How to reach me: [🐦](https://twitter.com/kinow/) or by e-mail. I may take a while to respond, and rarely available via mobile phone.
+- 📫 How to reach me: [🐦](https://twitter.com/kinow/) or by e-mail. I may take a while to respond, and am rarely available via mobile phone.
 
 <hr />
 
