@@ -14,6 +14,8 @@
 
 <hr />
 
+<img src="https://raw.githubusercontent.com/kinow/kinow/master/homem_sentado_01.webp" alt="Sketches of hands and feed" width="50%" align="left" />
+
 * [ORCID](https://orcid.org/0000-0001-8250-4074)
 * [Google Scholar](https://scholar.google.com/citations?user=9ipmigEAAAAJ&hl=en)
 * [ResearchGate](https://www.researchgate.net/profile/Bruno_De_Paula_Kinoshita)
