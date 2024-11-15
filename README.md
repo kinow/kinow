@@ -10,7 +10,7 @@
 - ⚡ I am also interested in topics that are not necessarily related to programming, such as illustrations, 3D, writing, science fiction, judo, slackline, and history.
 - 📖 My personal site is [https://kinoshita.eti.br/](https://kinoshita.eti.br/). Art posted to [@kinow at DeviantArt](https://www.deviantart.com/kinow) and [@brunokinoshita at Instagram](https://www.instagram.com/brunokinoshita/).
 - 🤖 I moderate a few communities like [r/functionalprogramming](https://old.reddit.com/r/functionalprogramming/), [r/fuzzylogic](https://www.reddit.com/r/fuzzylogic/), [r/chaves](https://old.reddit.com/r/chaves/), [r/chapolin](https://old.reddit.com/r/chapolin/), and [SpeakLikeABrazilian.com](speaklikeabrazilian.com/).
-- 📫 How to reach me: [🐦](https://twitter.com/kinow/) or by e-mail. I may take a while to respond, and am rarely available via mobile phone.
+- 📫 How to reach me: 🐦 [@kinow](https://twitter.com/kinow/), [@kinow.bsky.social](https://bsky.app/profile/kinow.bsky.social) or by e-mail. I may take a while to respond, and am rarely available via mobile phone.
 
 <hr />
 
