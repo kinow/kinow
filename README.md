@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/kinow/kinow/master/255.png" alt="Sketches of hands and feed" width="50%" align="right" />
 
 - 🇪🇸 I am based in Barcelona, Spain. Previously I was living in 🇳🇿 Auckland, New Zealand. I am originally from 🇧🇷 Casa Verde, São Paulo, Brazil.
-- 👯 Feel free to get in contact to discuss collaboration in Open Source, I am interested in several topics, from image processing, fuzzy logic, and natural language processing, to workflows, devops, continuous integration, and testing.
+- 👯 Feel free to get in contact to discuss collaboration in Open Source, I am interested in several topics, from image processing, fuzzy logic, and natural language processing, to workflows, provenance, devops, continuous integration, and testing.
 - 🌱 I am an Apache Software Foundation member, and also involved with other Open Source projects such as TestLink, Jenkins, BioUno, TAP, Smashing, TupiLabs, CWL, and others.
 - ⚡ I am also interested in topics that are not necessarily related to programming, such as illustrations, 3D, writing, science fiction, judo, slackline, and history.
 - 📖 My personal site is [https://kinoshita.eti.br/](https://kinoshita.eti.br/). Art posted to [@brunokinoshita at Instagram](https://www.instagram.com/brunokinoshita/) and [@kinow at Cara](https://cara.app/kinow).
