@@ -1,7 +1,3 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X1618T2)
-
-<hr />
-
 <img src="https://raw.githubusercontent.com/kinow/kinow/master/255.png" alt="Sketches of hands and feed" width="50%" align="right" />
 
 - 🇪🇸 I am based in Barcelona, Spain. Previously I was living in 🇳🇿 Auckland, New Zealand. I am originally from 🇧🇷 Casa Verde, São Paulo, Brazil.
